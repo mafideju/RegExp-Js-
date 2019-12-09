@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Senhor(a) Analista
+
+Mantive o README original do projeto pois não fiz nenhuma alteração na base do código.
+Apenas inseri os componentes pedidos e uma camada de serviçoes responsável pelos requests usando Axios.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
